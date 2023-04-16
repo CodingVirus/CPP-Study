@@ -1,1 +1,1 @@
-# CPP-Study
+# 학교 수업을 들으면서 공부했던 과제를 정리한 Repository 입니다.
